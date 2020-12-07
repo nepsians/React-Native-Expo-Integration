@@ -1,0 +1,9 @@
+{
+  "name": "TestExpoApp",
+  "displayName": "TestExpoApp",
+  "expo": {
+    "name": "TestExpoApp",
+    "slug": "rn-expo",
+    "sdkVersion": "39.0.0"
+  }
+}
